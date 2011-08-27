@@ -3,4 +3,14 @@
 
 == Installation ==
 
-CooKIES
+=== Prerequisites ===
+
+Minerstats requires four things you must have :
+ * A *Local* Web server
+ * A *Local* MySQL Database
+ * [http://forums.bukkit.org/threads/inactive-info-stats-v0-985-and-achievements-v0-981-617.1328/ Stats] plugin for Craftbukkit
+ * [http://forums.bukkit.org/threads/inactive-web-onlinelog-v1-0-1-online-player-statistics-602.9887/ Onlinelog] plugin for Craftbukkit (optional)
+
+Minerstats requires a local web server to work properly and a MySQL database. Without theses prerequisites, using maybe very uncomfortable but not impossible. I can't provide a technical help about external databases.
+
+Stats and OnlineLog are marked as inactive plugins but they work perfecly with Craftbukkit 1060 and newer builds.
