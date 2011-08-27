@@ -1,5 +1,7 @@
 #summary One-sentence summary of this page.
 
-= Changelog =
+== Changelog ==
 
-Blahblahblah...
+=== 27/07/2011 - VER 2.2 ===
+
+ * First free release.
